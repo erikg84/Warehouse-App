@@ -1,0 +1,12 @@
+c:\users\erik\documents\visual studio 2017\Projects\Stock\Stock\bin\Debug\Stock.exe.config
+c:\users\erik\documents\visual studio 2017\Projects\Stock\Stock\bin\Debug\Stock.exe
+c:\users\erik\documents\visual studio 2017\Projects\Stock\Stock\bin\Debug\Stock.pdb
+c:\users\erik\documents\visual studio 2017\Projects\Stock\Stock\obj\Debug\Stock.csprojResolveAssemblyReference.cache
+c:\users\erik\documents\visual studio 2017\Projects\Stock\Stock\obj\Debug\Stock.Properties.Resources.resources
+c:\users\erik\documents\visual studio 2017\Projects\Stock\Stock\obj\Debug\Stock.StockMain.resources
+c:\users\erik\documents\visual studio 2017\Projects\Stock\Stock\obj\Debug\Stock.csproj.GenerateResource.Cache
+c:\users\erik\documents\visual studio 2017\Projects\Stock\Stock\obj\Debug\Stock.exe
+c:\users\erik\documents\visual studio 2017\Projects\Stock\Stock\obj\Debug\Stock.pdb
+c:\users\erik\documents\visual studio 2017\Projects\Stock\Stock\obj\Debug\Stock.Login.resources
+C:\Users\Erik\documents\visual studio 2017\Projects\Stock\Stock\obj\Debug\Stock.Products.resources
+C:\Users\Erik\documents\visual studio 2017\Projects\Stock\Stock\obj\Debug\Stock.StockWindow.resources

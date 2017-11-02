@@ -1,0 +1,16 @@
+C:\Users\Erik\documents\visual studio 2017\Projects\Stock\Stock\bin\Release\Stock.exe.config
+C:\Users\Erik\documents\visual studio 2017\Projects\Stock\Stock\bin\Release\Stock.exe.manifest
+C:\Users\Erik\documents\visual studio 2017\Projects\Stock\Stock\bin\Release\Stock.application
+C:\Users\Erik\documents\visual studio 2017\Projects\Stock\Stock\bin\Release\Stock.exe
+C:\Users\Erik\documents\visual studio 2017\Projects\Stock\Stock\bin\Release\Stock.pdb
+C:\Users\Erik\documents\visual studio 2017\Projects\Stock\Stock\obj\Release\Stock.csprojResolveAssemblyReference.cache
+C:\Users\Erik\documents\visual studio 2017\Projects\Stock\Stock\obj\Release\Stock.Login.resources
+C:\Users\Erik\documents\visual studio 2017\Projects\Stock\Stock\obj\Release\Stock.Products.resources
+C:\Users\Erik\documents\visual studio 2017\Projects\Stock\Stock\obj\Release\Stock.Properties.Resources.resources
+C:\Users\Erik\documents\visual studio 2017\Projects\Stock\Stock\obj\Release\Stock.StockMain.resources
+C:\Users\Erik\documents\visual studio 2017\Projects\Stock\Stock\obj\Release\Stock.StockWindow.resources
+C:\Users\Erik\documents\visual studio 2017\Projects\Stock\Stock\obj\Release\Stock.csproj.GenerateResource.Cache
+C:\Users\Erik\documents\visual studio 2017\Projects\Stock\Stock\obj\Release\Stock.exe.manifest
+C:\Users\Erik\documents\visual studio 2017\Projects\Stock\Stock\obj\Release\Stock.application
+C:\Users\Erik\documents\visual studio 2017\Projects\Stock\Stock\obj\Release\Stock.exe
+C:\Users\Erik\documents\visual studio 2017\Projects\Stock\Stock\obj\Release\Stock.pdb
